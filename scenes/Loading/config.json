@@ -1,0 +1,16 @@
+{
+    "action_func": "action",
+    "action_module": "action",
+    "class": "default",
+    "img_name": "p.png",
+    "priority": 0,
+    "rect_list": [
+        [
+            212,
+            759,
+            1551,
+            291
+        ]
+    ],
+    "tolerance": 5
+}
